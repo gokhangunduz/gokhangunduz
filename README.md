@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Hi, I’m Gökhan Gündüz. I work at Robolaunch as Frontend Developer.<br><br>🌍 I'm based in Ankara<br>🖥️ See my portfolio at gokhangunduz.com.tr<br>✉️ You can contact me at mail@gokhangunduz.com.tr<br>🚀 I'm currently working on robolaunch</p>
+<p align="center">Hi, I’m Gökhan Gündüz. I work at Robolaunch as Frontend Developer.<br><br>🌍 I'm based in Turkey<br>🖥️ See my portfolio at gokhangunduz.com.tr<br>✉️ You can contact me at mail@gokhangunduz.com.tr<br>🚀 I'm currently working on robolaunch</p>
 
 ###
 
