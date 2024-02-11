@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋 I’m Gökhan Gündüz</h2>
 
 
-<p align="center">🌍 I'm based in Turkey<br>🖥️ See my portfolio at gokhangunduz.com.tr<br>✉️ You can contact me at me@gokhangunduz.dev<br>🚀 I'm currently working on robolaunch</p>
+<p align="center">🌍 I'm based in Turkey<br>🖥️ See my portfolio at gokhangunduz.dev<br>✉️ You can contact me at me@gokhangunduz.dev<br>🚀 I'm currently working on robolaunch</p>
 
 ###
 
