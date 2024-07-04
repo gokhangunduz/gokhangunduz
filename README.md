@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="css3 logo"  />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28" alt="git logo"  />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="28" alt="docker logo"  />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="28" alt="redux logo"  />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="28" alt="selenium logo"  />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="28" alt="redux logo"  />
   <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="28" alt="threejs logo"  />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="28" alt="tailwindcss logo"  />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="bootstrap logo"  />
