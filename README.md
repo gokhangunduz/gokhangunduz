@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋 I’m Gökhan Gündüz</h2>
 
 
-<p align="center">🌍 I'm based in Turkey<br>🖥️ See my portfolio at <a href="https://gokhangunduz.dev" target="_blank" >gokhangunduz.dev</a><br>✉️ You can contact me at <a href="mailto:me@gokhangunduz.dev" target="_blank" >me@gokhangunduz.dev</a><br>🚀 I'm currently working on <a href="https://ssb.gov.tr" target="_blank" >Presidency of Defense Industries of the Republic of Türkiye</a></p>
+<p align="center">🌍 I'm based in Turkey<br>🖥️ See my portfolio at <a href="https://gokhangunduz.dev" target="_blank" >gokhangunduz.dev</a><br>✉️ You can contact me at <a href="mailto:me@gokhangunduz.dev" target="_blank" >me@gokhangunduz.dev</a><br>🚀 I'm currently working on <a href="https://ssb.gov.tr" target="_blank" >Presidency of Defense Industries of the Republic of Türkiye 🇹🇷</a></p>
 
 ###
 
