@@ -27,22 +27,13 @@
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,threejs,figma&theme=dark&perline=8" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,threejs,figma&theme=dark&perline=8" alt="Frontend" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,threejs,figma&theme=dark&perline=8" alt="Frontend" />
 </p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,docker,nginx,redis&theme=dark&perline=8" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,docker,nginx,redis&theme=dark&perline=8" alt="Backend" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,docker,nginx,redis&theme=dark&perline=8" alt="Backend" />
 </p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,linux,git,jenkins,github,vscode,postman&theme=dark&perline=8" />
-    <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,jenkins,github,vscode,postman&theme=dark&perline=8" alt="Cloud & Tools" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,jenkins,github,vscode,postman&theme=dark&perline=8" alt="Cloud & Tools" />
 </p>
 
 <br/>
