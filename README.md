@@ -40,7 +40,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gokhangunduz&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=8" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokhangunduz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
 </p>
 
 <p align="center">
